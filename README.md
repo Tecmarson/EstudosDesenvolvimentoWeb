@@ -1,6 +1,6 @@
 # Aprendendo Dev Web
 
-Documentar conhecimentos e manter salvos projetos adquiridos durante o processo de aprendizado sobre desenvolvimento Web na Alura.
+Documentar conhecimentos e projetos adquiridos durante o processo de aprendizado sobre desenvolvimento Web na Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |

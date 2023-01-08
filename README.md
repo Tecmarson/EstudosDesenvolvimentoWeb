@@ -1,11 +1,11 @@
-# Aprendendo Dev Web
+# Portifólio
 
 Documentar conhecimentos e projetos adquiridos durante o processo de aprendizado sobre desenvolvimento Web na Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Desenvolvimento Web**
-| :label: Tecnologias | HTML, CSS, SASS
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
